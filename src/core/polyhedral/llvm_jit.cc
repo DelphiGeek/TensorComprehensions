@@ -84,4 +84,4 @@ JITTargetAddress Jit::getSymbolAddress(const std::string Name) {
   return *res;
 }
 
-}
+} // namespace tc
